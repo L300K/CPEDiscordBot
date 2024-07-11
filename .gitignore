@@ -10,3 +10,5 @@ __pycache__/
 *.sublime-*
 # Ignore env folder
 env
+news.py
+command.txt
