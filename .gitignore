@@ -10,5 +10,3 @@ __pycache__/
 *.sublime-*
 # Ignore env folder
 env
-# Ignore command.txt
-command
